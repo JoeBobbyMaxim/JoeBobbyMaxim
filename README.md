@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **manga/drawing stuff + FNAF speedrun challenges**
 
-- 📫 How to reach me **virgulino1890@gmail.com (2nd Gmail)**
+- 📫 Contact me **virgulino1890@gmail.com (2nd Gmail)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
