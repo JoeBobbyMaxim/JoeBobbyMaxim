@@ -1,7 +1,7 @@
 <h1 align="center">Wassup, I'm RJ</h1>
 <h3 align="center">(won't get my real name, fella XD)</h3>
 
-- 🔭 Currently working on **Object Oriented Programming; FrontEnd developing (HMTL, CSS))**
+- 🔭 Currently working on **Object Oriented Programming; FrontEnd developing (HMTL, CSS)**
 
 - 🌱 I’m currently learning **Frontend (HTML, CSS), OOP(Java)**
 
